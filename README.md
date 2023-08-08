@@ -1,16 +1,15 @@
-### Hi there 👋
+## Ayden Xu - aydengemz
 
-<!--
-**aydengemz/aydengemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ayden Xu, a curious developer exploring the world of code.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning and growing every day.
+- 💼 Open to new opportunities and collaborations.
+- 💬 Let's chat about tech, coding, or anything interesting!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/aydenx/)
+[![Website](https://img.shields.io/badge/-Portfolio%20Website-gray?style=flat-square&logo=firefox&logoColor=white&link=https://www.yourportfolio.com)](https://www.yourportfolio.com)
+
+📧 Reach me at: aydenx@andrew.cmu.edu
+
