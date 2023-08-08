@@ -1,8 +1,11 @@
 # Ayden Xu - @aydengemz
 
-I'm Ayden, a student and Carnegie Mellon University and an aspiring full-stack developer exploring the world of code. 
+I'm a student at Carnegie Mellon University and an aspiring full-stack developer exploring the world of code. \
+Some things that I enjoy include:
 
-Some things that I enjoy are 🛩 Travel, 🎹 Playing Piano, and 🏊 Swimming.
+🛩 Travel\
+🎹 Playing Piano\
+🏊 Swimming
 
 ## Connect with me:
 
