@@ -1,6 +1,7 @@
---- Ayden Xu
+# Ayden Xu - @aydengemz
 
 I'm Ayden, a student and Carnegie Mellon University and an aspiring full-stack developer exploring the world of code. 
+
 Some things that I enjoy are 🛩 Travel, 🎹 Playing Piano, and 🏊 Swimming.
 
 ## Connect with me:
