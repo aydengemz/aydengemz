@@ -1,15 +1,14 @@
-## Ayden Xu - aydengemz
+--- Ayden Xu
 
-I'm Ayden Xu, a curious developer exploring the world of code.
+I'm Ayden, a student and Carnegie Mellon University and an aspiring full-stack developer exploring the world of code. 
+Some things that I enjoy are 🛩 Travel, 🎹 Playing Piano, and 🏊 Swimming.
 
-- 🌱 Currently learning and growing every day.
-- 💼 Open to new opportunities and collaborations.
-- 💬 Let's chat about tech, coding, or anything interesting!
+## Connect with me:
 
-Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-aydenx-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aydenx/)](https://www.linkedin.com/in/aydenx/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
+[![Instagram Badge](https://img.shields.io/badge/-@ayd_xu-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
+[![Gmail Badge](https://img.shields.io/badge/-aydenx@andrew.cmu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/aydenx/)
-[![Website](https://img.shields.io/badge/-Portfolio%20Website-gray?style=flat-square&logo=firefox&logoColor=white&link=https://www.yourportfolio.com)](https://www.yourportfolio.com)
 
-📧 Reach me at: aydenx@andrew.cmu.edu
 
