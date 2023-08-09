@@ -1,5 +1,5 @@
 
-![Alt Text](https://i.pinimg.com/originals/1e/ee/ae/1eeeaeda7973765ec5ba79113d1fd7f3.png)
+![Alt Text](https://archives.bulbagarden.net/media/upload/thumb/4/4b/Psyduck_Eggs_anime.png/220px-Psyduck_Eggs_anime.png)
 
 Hi, I'm Ayden, a student at Carnegie Mellon University 🍉 and aspiring full-stack developer 🖥.\
 Some things that I enjoy include: 🛩 Travel, 🎹 Piano, and 🐟 Swimming.\
