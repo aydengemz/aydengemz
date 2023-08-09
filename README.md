@@ -1,8 +1,9 @@
-# Ayden Xu - @aydengemz
 
-Hi, I'm a student at Carnegie Mellon University and aspiring full-stack developer.\
+![Alt Text](https://i.gifer.com/8R5D.gif)
+
+Hi, I'm Ayden, a student at Carnegie Mellon University 🍉 and aspiring full-stack developer 🖥.\
 Some things that I enjoy include: 🛩 Travel, 🎹 Piano, and 🐟 Swimming.\
-I'm always down to meet new people and would love to connect 🫵!
+I'm always down to meet new people and would love to connect 😼!
 
 ## Connect with me:
 
