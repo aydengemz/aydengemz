@@ -1,5 +1,5 @@
 
-![Alt Text](https://i.gifer.com/8R5D.gif)
+![Alt Text](https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif)
 
 Hi, I'm Ayden, a student at Carnegie Mellon University 🍉 and aspiring full-stack developer 🖥.\
 Some things that I enjoy include: 🛩 Travel, 🎹 Piano, and 🐟 Swimming.\
