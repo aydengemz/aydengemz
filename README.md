@@ -5,8 +5,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-aydenx-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aydenx/)](https://www.linkedin.com/in/aydenx/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://aydengemz.github.io/MyPortfolio/)
-[![Instagram Badge](https://img.shields.io/badge/-@ayd_xu-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
-[![Gmail Badge](https://img.shields.io/badge/-aydenx@andrew.cmu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@ayd_xu-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ayd_xu/)](https://instagram.com/ayd_xu)
+[![Gmail Badge](https://img.shields.io/badge/-aydenx@andrew.cmu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aydenx@andrew.cmu.edu)](mailto:aydenx@andrew.cmu.edu)
 
 <font size="3"> Hi! I'm Ayden, a student at Carnegie Mellon University 🍉 and aspiring full-stack developer 🖥.<br>
 Some things that I enjoy include:<strong> 🛩 Travel, 🎹 Piano, and 🐟 Swimming.</strong><br>
