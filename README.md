@@ -8,9 +8,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ayd_xu-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ayd_xu/)](https://instagram.com/ayd_xu)
 [![Gmail Badge](https://img.shields.io/badge/-aydenx@andrew.cmu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aydenx@andrew.cmu.edu)](mailto:aydenx@andrew.cmu.edu)
 
-<font size="3"> Hi! I'm Ayden, a student at Carnegie Mellon University 🍉 and aspiring full-stack developer 🖥.<br>
-Some things that I enjoy include:<strong> 🛩 Travel, 🎹 Piano, and 🐟 Swimming.</strong><br>
-I'm always down to meet new people and would love to connect 😼! </font>
 
 
 
